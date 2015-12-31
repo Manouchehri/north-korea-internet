@@ -1,24 +1,69 @@
-com.kp
-edu.kp
-friend.com.kp
-gnu.rep.kp
-kcna.kp
-koredufund.org.kp
-korfilm.com.kp
-mail.silibank.net.kp
-net.kp
-ns1.kptc.kp
-rep.kp
-rodong.rep.kp
-silibank.net.kp
-smtp.star-co.net.kp
-spwebh2.star.net.kp
-vok.rep.kp
-www.airkoryo.com.kp
-www.friend.com.kp
-www.gnu.rep.kp
-www.kcna.kp
-www.knic.com.kp
-www.koredufund.org.kp
-www.ryongnamsan.edu.kp
-www.vok.rep.kp
+# This file contains a list of domains that are currently active.
+# Source: https://scans.io/data/rapid7/sonar.fdns/20151226_dnsrecords_all.gz
+
+friend.com.kp,a,175.45.176.81
+friend.com.kp,ns,ns1.friend.com.kp
+friend.com.kp,ns,ns2.friend.com.kp
+friend.com.kp,soa,ns1.friend.com.kp root.friend.com.kp 2012022310 28800 7200 1209600 3600
+www.friend.com.kp,a,175.45.176.81
+
+kcna.kp,a,175.45.176.71
+kcna.kp,a,175.45.177.74
+kcna.kp,ns,ns1.kcna.kp
+kcna.kp,ns,ns2.kcna.kp
+kcna.kp,soa,ns1.kcna.kp root.kcna.kp 2012022310 28800 7200 1209600 3600
+www.kcna.kp,a,175.45.176.71
+www.kcna.kp,a,175.45.177.74
+
+koredufund.org.kp,a,175.45.176.81
+koredufund.org.kp,ns,ns1.koredufund.org.kp
+koredufund.org.kp,ns,ns2.koredufund.org.kp
+koredufund.org.kp,soa,ns1.koredufund.org.kp root.koredufund.org.kp 2012022310 28800 7200 1209600 3600
+www.koredufund.org.kp,a,175.45.176.81
+
+korfilm.com.kp,a,175.45.176.81
+korfilm.com.kp,ns,ns1.korfilm.com.kp
+korfilm.com.kp,ns,ns2.korfilm.com.kp
+korfilm.com.kp,soa,ns1.korfilm.com.kp root.korfilm.com.kp 2012022310 28800 7200 1209600 3600
+
+mail.silibank.net.kp,a,175.45.176.70
+silibank.net.kp,mx,10 mail.silibank.net.kp
+
+kp,ns,ns1.kptc.kp
+kp,soa,ns1.kptc.kp root.kptc.kp 2013083001 28800 7200 1209600 86400
+ns1.kptc.kp,a,175.45.176.15
+
+gnu.rep.kp,a,175.45.176.73
+gnu.rep.kp,a,175.45.177.73
+gnu.rep.kp,ns,ns1.gnu.rep.kp
+gnu.rep.kp,ns,ns2.gnu.rep.kp
+gnu.rep.kp,soa,ns1.gnu.rep.kp postmaster.gnu.rep.kp 2012110810 28800 7200 1209600 3600
+www.gnu.rep.kp,a,175.45.176.73
+www.gnu.rep.kp,a,175.45.177.73
+
+rodong.rep.kp,a,175.45.176.68
+rodong.rep.kp,a,175.45.177.78
+rodong.rep.kp,ns,ns1.rodong.rep.kp
+rodong.rep.kp,ns,ns2.rodong.rep.kp
+rodong.rep.kp,soa,ns1.rodong.rep.kp root.rodong.rep.kp 2012022310 28800 7200 1209600 3600
+
+vok.rep.kp,a,175.45.176.75
+vok.rep.kp,a,175.45.177.75
+vok.rep.kp,ns,ns1.vok.rep.kp
+vok.rep.kp,ns,ns2.vok.rep.kp
+vok.rep.kp,soa,ns1.vok.rep.kp root.vok.rep.kp 2012022312 28800 7200 1209600 3600
+
+www.vok.rep.kp,a,175.45.176.75
+www.vok.rep.kp,a,175.45.177.75
+
+smtp.star-co.net.kp,a,175.45.176.10
+
+spwebh2.star.net.kp,a,175.45.176.7
+
+www.airkoryo.com.kp,a,175.45.176.69
+
+www.knic.com.kp,a,175.45.176.81
+
+www.koredufund.org.kp,a,175.45.176.81
+
+www.ryongnamsan.edu.kpwww.ryongnamsan.edu.kp,a,175.45.176.79
